@@ -1,5 +1,5 @@
 on: push
-name: Sonarcloud-Scan
+name: Sonarcloud Scan
 jobs:
   sonarcloud:
     runs-on: ubuntu-latest
